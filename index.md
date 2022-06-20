@@ -1,3 +1,4 @@
+# Totally Not Suspicious
 
 * SMP Server IP: `mc.totallynotsuspicious.com`
 * Minigames Server IP: `mini.totallynotsuspicious.com`

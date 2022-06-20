@@ -1,4 +1,4 @@
-# TOTALLY NOT SUSPICIOUS RULES
+# Rules
 
 TotallyNotSuspicious is a welcoming and friendly community for all players. These rules are expected to be followed by all players with no exceptions. By following these rules we can contribute to a positive environment, making it a fun place to be with friends.
 
