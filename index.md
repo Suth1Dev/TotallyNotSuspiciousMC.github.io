@@ -1,4 +1,12 @@
 
-![](https://cdn.discordapp.com/attachments/522691993776685056/727393414647382096/unknown.png)
-![](https://cdn.discordapp.com/attachments/514473624132911119/541428792430952458/unknown.png)
-![](https://cdn.discordapp.com/attachments/514473624132911119/541428834092711936/unknown.png)
+# Totally Not Suspicious 
+
+* SMP Server IP: `mc.totallynotsuspicious.com`
+* Minigames Server IP: `mini.totallynotsuspicious.com`
+* Discord Server: `https://discord.gg/jqH6WDjSjg`
+
+
+## [Server Rules](rules.md)
+
+
+## [Information Regarding the Current Season](current_season.md)
