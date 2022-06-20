@@ -15,3 +15,31 @@
 ![](https://i.imgur.com/pgV5aUf.png)
 
 ![](https://i.imgur.com/BR8sdPi.jpeg)
+
+## Staff 
+
+### Owners
+* vSharpies
+* Scorrpine
+
+### Administrators
+* AlirQue
+* Atalus
+
+### Moderators
+* heron_boy
+
+### Builders
+* TheDeathlyCow
+* Herbu_
+* Cloudseses
+* Vincent
+
+### Helpers
+* Jessikazoo
+* RoRonnie
+* iClap7739
+* JuniperZu
+* Abdette
+* the_gnat
+* The_Street_Bush
