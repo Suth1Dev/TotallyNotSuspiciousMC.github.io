@@ -9,3 +9,9 @@
 
 
 ## [Information Regarding the Current Season](current_season.md)
+
+---
+
+![](https://i.imgur.com/pgV5aUf.png)
+
+![](https://i.imgur.com/BR8sdPi.jpeg)
