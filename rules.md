@@ -86,7 +86,7 @@ TotallyNotSuspicious is a welcoming and friendly community for all players. Thes
    1. This definition is very straightforward - to express critique or pessimism in regards to a concept, being skeptical, always downbeat, or expecting the worst.  Negativity becomes unacceptable when it is seen as socially accepted or encouraged in regards to putting down oneself or others in expectation of receiving attention or compassion.
    2. Negative attitudes and feelings of hopelessness are very easy to spread and can create chronic stress. Negativity includes: "I am not-", enough, strong, lucky, etc. "Nobody cares", "I can’t do it", etc. Avoid cynical thoughts. Avoid causing mass fear or placing sad thoughts onto another individual. 
 4. **Bullying:**
-   1. Resources for help: https://www.stopbullying.gov/bullying/what-is-bullying and https://www.stopbullying.gov/cyberbullying/what-is-it
+   1. Resources for help: <https://www.stopbullying.gov/bullying/what-is-bullying> and <https://www.stopbullying.gov/cyberbullying/what-is-it>
    2. Bullying and Cyberbullying can be prominent within any social platform. Avoid name-calling, inappropriate comments, taunting, threatening someone, exclusion, spreading rumors, embarrassing someone, etc.
    3. Bullying or harassment may be by an individual against an individual or involve groups of people.
 5. **Victimization:**
