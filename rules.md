@@ -2,7 +2,7 @@
 
 TotallyNotSuspicious is a welcoming and friendly community for all players. These rules are expected to be followed by all players with no exceptions. By following these rules we can contribute to a positive environment, making it a fun place to be with friends.
 
-*By joining TotallyNotSuspicious, you will automatically agree to all of the following rules below. Any failure to recognize or keep these rules in mind will result in a punishment in terms of its severity. Please keep in mind that our staff team has extensive knowledge and is completely aware of all rules stated below; the team will not accept any type of excuse for wrongdoings. The following general server and chat rules will apply in _**ANY**_ of our channels, and any member caught showing these behaviors will be punished.*
+*By joining TotallyNotSuspicious, you will automatically agree to all of the following rules below. Any failure to recognize or keep these rules in mind will result in a punishment in terms of its severity. Please keep in mind that our staff team has extensive knowledge and is completely aware of all rules stated below; the team will not accept any type of excuse for wrongdoings. The following general server and chat rules will apply in **ANY** of our channels, and any member caught showing these behaviors will be punished.*
 
 ---
 
