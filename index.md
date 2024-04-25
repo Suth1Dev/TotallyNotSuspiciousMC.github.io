@@ -21,25 +21,29 @@
 ### Owners
 * vSharpies
 * Scorrpine
+* AlirQue
 
 ### Administrators
-* AlirQue
 * Atalus
+* LeeMohr
 
 ### Moderators
-* heron_boy
+* aPhoton
+* Suth1
 
+### Trial-Moderators
+* R03ERT3
+  
 ### Builders
 * TheDeathlyCow
 * Herbu_
-* Cloudseses
 * Vincent
 
 ### Helpers
-* Jessikazoo
-* RoRonnie
-* iClap7739
-* JuniperZu
-* Abdette
-* the_gnat
-* The_Street_Bush
+* anderz21
+* Meg4tron092
+* Amyrinya
+
+### Trial-Helpers
+* LumonJuce
+* Beanjamin44
